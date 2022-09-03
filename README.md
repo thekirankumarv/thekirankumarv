@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **B.E (Information Science)**
 
-- 💬 Ask me about **C,Java,Andriod Development**
+- 💬 Ask me about **| Adobe Photoshop CC | Adobe Premiere pro | C | Java | Andriod Development |**
 
 - 📫 How to reach me **thekirankumarv@gmail.com**
 
