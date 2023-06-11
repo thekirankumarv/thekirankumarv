@@ -37,7 +37,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=thekirankumarv&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![Snake animation](https://github.com/thekirankumarv/{{your_username}}/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
