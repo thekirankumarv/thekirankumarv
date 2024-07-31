@@ -1,7 +1,7 @@
 ![Banner](https://github.com/user-attachments/assets/8db0025d-a183-4251-b34f-6dc6090df997)
 
 <h1 align="center">Hi 👋, I'm Kiran Kumar.V</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
  
@@ -9,7 +9,7 @@
 
 - 🌱 I have graduated with a **B.E (Information Science and Engineering)**
 
-- 💬 Ask me about **| Adobe Photoshop CC | Adobe Premiere pro | C | Java | Andriod Development |**
+- 💬 Ask me about **| Python | C++ | Java | Andriod Development | Adobe Photoshop CC | Adobe Premiere pro |**
 
 - 📫 How to reach me **thekirankumarv@gmail.com**
 
