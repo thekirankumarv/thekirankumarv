@@ -102,6 +102,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=01eeff&height=120&section=footer" width="100%" />
 
 <!-- Contributions Snake Animation -->
-![Snake animation](https://raw.githubusercontent.com/{thekirankumarv}/{thekirankumarv}/output/github-contribution-grid-snake-dark.svg)
-
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thekirankumarv/thekirankumarv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
